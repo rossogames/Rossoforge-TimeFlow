@@ -1,0 +1,17 @@
+{
+    "name": "Rossoforge.TimeFlow",
+    "rootNamespace": "Rossoforge.TimeFlow",
+    "references": [
+        "Rossoforge.Core",
+        "Rossoforge.Services"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

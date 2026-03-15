@@ -1,7 +1,7 @@
 {
-  "name": "com.rossogames.rossoforge-time",
+  "name": "com.rossogames.rossoforge-time-flow",
   "version": "1.4.0",
-  "displayName": "Rossoforge-Time",
+  "displayName": "Rossoforge-TimeFlow",
   "description": "A centralized and extensible time service for Unity that manages time scale, pause and resume, and provides access to the current date/time.",
   "unity": "2022.0",
   "author": {

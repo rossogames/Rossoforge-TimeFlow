@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/rossogames/Rossoforge-Time/blob/main/logo.png?raw=true" alt="Rossoforge" width="64"/></td>
-    <td><h2>Rossoforge-Time</h2></td>
+    <td><img src="https://github.com/rossogames/Rossoforge-TimeFlow/blob/main/logo.png?raw=true" alt="Rossoforge" width="64"/></td>
+    <td><h2>Rossoforge-TimeFlow</h2></td>
   </tr>
 </table>
 
