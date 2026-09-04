@@ -1,6 +1,6 @@
 using Rossoforge.Events.Bus;
 
-namespace Rossoforge.TimeFlow
+namespace Rossoforge.TimeFlow.Events
 {
     public readonly struct TimeFlowPausedEvent : IEvent
     {

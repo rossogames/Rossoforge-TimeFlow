@@ -1,7 +1,7 @@
-using Rossoforge.Core.Services;
-using Rossoforge.Core.TimeFlow;
 using Rossoforge.Events.Service;
-using Rossoforge.Services;
+using Rossoforge.Services.Locator;
+using Rossoforge.Services.Service;
+using Rossoforge.TimeFlow.Events;
 using System;
 using UnityEngine;
 
