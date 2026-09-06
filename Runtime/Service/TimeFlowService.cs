@@ -1,7 +1,7 @@
-using Rossoforge.Core.Events;
-using Rossoforge.Core.Services;
-using Rossoforge.Core.TimeFlow;
-using Rossoforge.Services;
+using Rossoforge.Events.Service;
+using Rossoforge.Services.Locator;
+using Rossoforge.Services.Service;
+using Rossoforge.TimeFlow.Events;
 using System;
 using UnityEngine;
 
@@ -52,7 +52,7 @@ namespace Rossoforge.TimeFlow.Service
 
         private void SetTimeScale(float timeScale)
         {
-            if (timeScale < 0f) 
+            if (timeScale < 0f)
                 timeScale = 0f;
 
             Time.timeScale = timeScale;

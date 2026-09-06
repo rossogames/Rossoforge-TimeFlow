@@ -1,6 +1,6 @@
-using Rossoforge.Core.Events;
+using Rossoforge.Events.Bus;
 
-namespace Rossoforge.TimeFlow
+namespace Rossoforge.TimeFlow.Events
 {
     public readonly struct TimeFlowResumedEvent : IEvent
     {
